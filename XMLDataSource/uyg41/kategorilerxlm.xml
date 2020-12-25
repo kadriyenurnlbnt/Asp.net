@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<kategoriler>
+	
+	<kategori Deger="1" Ad="Bilgisayar"/>
+	<kategori Deger="1" Ad="Giyim"/>
+	<kategori Deger="1" Ad="Mücevher"/>
+	<kategori Deger="1" Ad="Takı"/>
+	<kategori Deger="1" Ad="Telefon"/>
+	<kategori Deger="1" Ad="Elektronik"/>
+</kategoriler>
